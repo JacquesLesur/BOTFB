@@ -1,0 +1,98 @@
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Bot Application.dll.config
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Bot Application.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Bot Application.pdb
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Autofac.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Chronic.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Connector.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Newtonsoft.Json.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.Net.Http.Formatting.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.WebHost.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Autofac.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Connector.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\Newtonsoft.Json.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.Net.Http.Formatting.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.WebHost.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\obj\Release\BotFBEpsi.csproj.CoreCompileInputs.cache
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\obj\Release\Bot Application.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\obj\Release\Bot Application.pdb
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\obj\Release\BotFBEpsi.csprojResolveAssemblyReference.cache
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\EntityFramework.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\EntityFramework.SqlServer.dll
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\EntityFramework.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\EntityFramework.SqlServer.xml
+C:\Users\frus71554\source\repos\BotFBEpsi\BotFBEpsi\bin\fr\EntityFramework.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\obj\Release\BotFBEpsi.csprojResolveAssemblyReference.cache
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\obj\Release\Bot Application.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\obj\Release\Bot Application.pdb
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Bot Application.dll.config
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Bot Application.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Bot Application.pdb
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Autofac.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Chronic.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\EntityFramework.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\EntityFramework.SqlServer.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Connector.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Newtonsoft.Json.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.Net.Http.Formatting.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.WebHost.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Autofac.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\EntityFramework.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\EntityFramework.SqlServer.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.Bot.Connector.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\Newtonsoft.Json.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.Net.Http.Formatting.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\System.Web.Http.WebHost.xml
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\fr\EntityFramework.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jacques\Documents\Visual Studio 2017\BotFBEpsi\BotFBEpsi\bin\fr\EntityFramework.SqlServer.resources.dll

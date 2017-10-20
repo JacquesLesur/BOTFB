@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BotDBModel-Web.config Connection String" description="BotDBModel Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="data source=serveurbddbot.database.windows.net;initial catalog=bddbot;persist security info=True;user id=AdminServeur;password=EPSINantes2017!;multipleactiveresultsets=True;application name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Jacques\\Documents\\Visual\ Studio\ 2017\\BotFBEpsi\\BotFBEpsi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BotDBModel']/@connectionString" />
+  </parameter>
+</parameters>
